@@ -28,7 +28,7 @@ const Hero: React.FC = () => {
             Salut, je suis <span className="text-blue-600 dark:text-blue-400">Abdessamad Dadda</span>
           </h1>
           <p className="mb-10 text-xl leading-relaxed text-gray-700 sm:text-2xl dark:text-gray-300 animate-fade-in-delay">
-            Développeur Web & Mobile passionné, étudiant à l’ISMAGI – créateur de solutions modernes et intuitives.
+            Développeur Web & Mobile passionné, étudiant à l’ISMAGI – créateur de solutions modernes et intuitives et Entrepreneur .
           </p>
 
           <div className="flex flex-col justify-center space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4 animate-fade-in-delay-2">
