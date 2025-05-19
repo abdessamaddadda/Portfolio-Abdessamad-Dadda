@@ -1,6 +1,6 @@
-import React from 'react';
-import Button from '../ui/Button';
 import { ArrowDown } from 'lucide-react';
+import Button from '../ui/Button';
+import React from 'react';
 import backgroundImage from '../images/c1.jpg'; // ✅ Import de l'image
 
 const Hero: React.FC = () => {

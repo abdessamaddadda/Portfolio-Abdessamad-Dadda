@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
           
           <div>
             <p className="text-gray-400 text-sm">
-              &copy; {currentYear} John Doe. All rights reserved.
+              &copy; {currentYear} Abdessamad Dadda. All rights reserved.
             </p>
           </div>
         </div>
