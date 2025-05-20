@@ -34,5 +34,5 @@ To run this project locally:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-portfolio.git
-cd your-portfolio
+git clone https://github.com/abdessamaddadda/Portfolio-Abdessamad-Dadda.git
+cd Portfolio-Abdessamad-Dadda
